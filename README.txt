@@ -1,0 +1,1 @@
+GitHub Pages için: index.html ve photos klasörünü repository kök dizinine yükleyin. Settings > Pages > Deploy from a branch > main / root.
